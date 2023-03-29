@@ -1,1 +1,0 @@
---incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Suma_Constante_behav" "xil_defaultlib.Suma_Constante" -log "elaborate.log" 
