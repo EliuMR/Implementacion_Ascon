@@ -1,0 +1,14 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Adicion_Constante.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Adicion_Constante'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Bloque_Permutacion_Rondas.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Bloque_Permutacion_Rondas'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Difusion_Lineal.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Difusion_Lineal'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Maquina_Estados.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Maquina_Estados'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Permutacion.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Permutacion'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Substitucion.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Substitucion'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Ascon_Cifrador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Ascon_Cifrador'

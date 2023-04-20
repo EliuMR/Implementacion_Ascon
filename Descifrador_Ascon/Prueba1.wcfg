@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Ascon_Cifrador_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Ascon_Cifrador" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="287.376 ns"></ZoomStartTime>
+      <ZoomEndTime time="537.377 ns"></ZoomEndTime>
+      <Cursor1Time time="550.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="59"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="30" />
+   <wvobject fp_name="/Ascon_Cifrador/llave" type="array">
+      <obj_property name="ElementShortName">llave[127:0]</obj_property>
+      <obj_property name="ObjectShortName">llave[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/Nonce" type="array">
+      <obj_property name="ElementShortName">Nonce[127:0]</obj_property>
+      <obj_property name="ObjectShortName">Nonce[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/datos_Asociados" type="array">
+      <obj_property name="ElementShortName">datos_Asociados[127:0]</obj_property>
+      <obj_property name="ObjectShortName">datos_Asociados[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/texto_cifrado" type="array">
+      <obj_property name="ElementShortName">texto_cifrado[127:0]</obj_property>
+      <obj_property name="ObjectShortName">texto_cifrado[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/Tag" type="array">
+      <obj_property name="ElementShortName">Tag[127:0]</obj_property>
+      <obj_property name="ObjectShortName">Tag[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/texto_Descifrado" type="array">
+      <obj_property name="ElementShortName">texto_Descifrado[127:0]</obj_property>
+      <obj_property name="ObjectShortName">texto_Descifrado[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/Estado_inicial" type="array">
+      <obj_property name="ElementShortName">Estado_inicial[319:0]</obj_property>
+      <obj_property name="ObjectShortName">Estado_inicial[319:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/Estado" type="array">
+      <obj_property name="ElementShortName">Estado[319:0]</obj_property>
+      <obj_property name="ObjectShortName">Estado[319:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sc0" type="array">
+      <obj_property name="ElementShortName">sc0[255:0]</obj_property>
+      <obj_property name="ObjectShortName">sc0[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sc1" type="array">
+      <obj_property name="ElementShortName">sc1[255:0]</obj_property>
+      <obj_property name="ObjectShortName">sc1[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sc2" type="array">
+      <obj_property name="ElementShortName">sc2[255:0]</obj_property>
+      <obj_property name="ObjectShortName">sc2[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sc3" type="array">
+      <obj_property name="ElementShortName">sc3[255:0]</obj_property>
+      <obj_property name="ObjectShortName">sc3[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sc4" type="array">
+      <obj_property name="ElementShortName">sc4[255:0]</obj_property>
+      <obj_property name="ObjectShortName">sc4[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sc5" type="array">
+      <obj_property name="ElementShortName">sc5[255:0]</obj_property>
+      <obj_property name="ObjectShortName">sc5[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sr0" type="array">
+      <obj_property name="ElementShortName">sr0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">sr0[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sr1" type="array">
+      <obj_property name="ElementShortName">sr1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">sr1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sr2" type="array">
+      <obj_property name="ElementShortName">sr2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">sr2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sr3" type="array">
+      <obj_property name="ElementShortName">sr3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">sr3[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sr4" type="array">
+      <obj_property name="ElementShortName">sr4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">sr4[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/sr5" type="array">
+      <obj_property name="ElementShortName">sr5[63:0]</obj_property>
+      <obj_property name="ObjectShortName">sr5[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/R_entrada" type="array">
+      <obj_property name="ElementShortName">R_entrada[63:0]</obj_property>
+      <obj_property name="ObjectShortName">R_entrada[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/C_entrada" type="array">
+      <obj_property name="ElementShortName">C_entrada[255:0]</obj_property>
+      <obj_property name="ObjectShortName">C_entrada[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/RondaAB" type="logic">
+      <obj_property name="ElementShortName">RondaAB</obj_property>
+      <obj_property name="ObjectShortName">RondaAB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/estado_contador" type="array">
+      <obj_property name="ElementShortName">estado_contador[2:0]</obj_property>
+      <obj_property name="ObjectShortName">estado_contador[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/Texto0_descifrado" type="array">
+      <obj_property name="ElementShortName">Texto0_descifrado[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Texto0_descifrado[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/Texto1_descifrado" type="array">
+      <obj_property name="ElementShortName">Texto1_descifrado[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Texto1_descifrado[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/TextoDescifrado" type="array">
+      <obj_property name="ElementShortName">TextoDescifrado[127:0]</obj_property>
+      <obj_property name="ObjectShortName">TextoDescifrado[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ascon_Cifrador/tag_C" type="array">
+      <obj_property name="ElementShortName">tag_C[127:0]</obj_property>
+      <obj_property name="ObjectShortName">tag_C[127:0]</obj_property>
+   </wvobject>
+</wave_config>

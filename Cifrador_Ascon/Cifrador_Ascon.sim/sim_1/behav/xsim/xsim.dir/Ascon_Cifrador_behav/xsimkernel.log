@@ -1,0 +1,7 @@
+Running: xsim.dir/Ascon_Cifrador_behav/xsimk -simmode gui -wdb Ascon_Cifrador_behav.wdb -simrunnum 0 -socket 36081
+Design successfully loaded
+Design Loading Memory Usage: 29752 KB (Peak: 29760 KB)
+Design Loading CPU Usage: 50 ms
+Simulation completed
+Simulation Memory Usage: 120844 KB (Peak: 169020 KB)
+Simulation CPU Usage: 230 ms

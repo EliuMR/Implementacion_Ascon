@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:07:14
+/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Adicion_Constante.vhd,1681505588,vhdl,,,,adicion_constante,,,,,,,,
+/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Ascon_Cifrador.vhd,1681782036,vhdl,,,,ascon_cifrador,,,,,,,,
+/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Bloque_Permutacion_Rondas.vhd,1681505464,vhdl,,,,bloque_permutacion_rondas,,,,,,,,
+/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Difusion_Lineal.vhd,1681505688,vhdl,,,,difusion_lineal,,,,,,,,
+/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Maquina_Estados.vhd,1681779492,vhdl,,,,maquina_estados,,,,,,,,
+/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Permutacion.vhd,1681505510,vhdl,,,,permutacion,,,,,,,,
+/home/eliumoreno/Descargas/ASCON/Descifrador_Ascon/Cifrador_Ascon.srcs/sources_1/new/Substitucion.vhd,1681505646,vhdl,,,,substitucion,,,,,,,,

@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Cifrador_Ascon.srcs/sources_1/new/Adicion_Constante.vhd" \
+"../../../../Cifrador_Ascon.srcs/sources_1/new/Bloque_Permutacion_Rondas.vhd" \
+"../../../../Cifrador_Ascon.srcs/sources_1/new/Difusion_Lineal.vhd" \
+"../../../../Cifrador_Ascon.srcs/sources_1/new/Maquina_Estados.vhd" \
+"../../../../Cifrador_Ascon.srcs/sources_1/new/Permutacion.vhd" \
+"../../../../Cifrador_Ascon.srcs/sources_1/new/Substitucion.vhd" \
+"../../../../Cifrador_Ascon.srcs/sources_1/new/Ascon_Cifrador.vhd" \
+
+# Do not sort compile order
+nosort

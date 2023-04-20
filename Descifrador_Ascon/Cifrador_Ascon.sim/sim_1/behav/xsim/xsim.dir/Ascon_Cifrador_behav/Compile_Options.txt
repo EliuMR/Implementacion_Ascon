@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "Ascon_Cifrador_behav" "xil_defaultlib.Ascon_Cifrador" -log "elaborate.log" 
